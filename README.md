@@ -57,7 +57,7 @@ This project is a collaborative graphical editor where multiple users can create
 
 ---
 
-##Enjoy!
+###Enjoy!
 
 ![Airplane](./Airplane.png)
 
