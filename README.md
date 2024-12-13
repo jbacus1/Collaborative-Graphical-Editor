@@ -11,14 +11,14 @@ This project is a collaborative graphical editor where multiple users can create
 ### Shape Support
 
 - **Ellipse**: Customizable size and color.
-- **Rectangle**: Axis-aligned, user-defined.
+- **Rectangle**: Customizable size and color
 - **Segment**: Straight lines with adjustable endpoints and color.
 - **Freehand**: Connected sequences of lines smoothly tracing the path of the mouse.
 
 ### Core Actions
 
 - **Draw**: Add shapes to the canvas.
-- **Select**: Highlight and interact with shapes.
+- **Recolor**: Change the color of a specific shape.
 - **Move**: Reposition existing shapes.
 - **Delete**: Remove shapes permanently.
 
