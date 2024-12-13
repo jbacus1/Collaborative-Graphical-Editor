@@ -57,6 +57,12 @@ This project is a collaborative graphical editor where multiple users can create
 
 ---
 
+##Enjoy!
+
+![Airplane](./Airplane.png)
+
+---
+
 ## Acknowledgments
 
 Developed as part of the Dartmouth CS10 curriculum, Winter 2024.
